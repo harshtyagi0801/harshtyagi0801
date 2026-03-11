@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harsh Tyagi
 
 🚀 Project Engineer at DRDO (Ministry of Defence, Government of India)  
-💻 Computer Vision Engineer | AI & OpenCV Developer  
+💻 Computer Vision | AI & OpenCV Developer  
 
 ---
 
@@ -70,5 +70,5 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOURPROFILE
-GitHub: https://github.com/YOURUSERNAME
+LinkedIn: www.linkedin.com/in/harsh-tyagi-4baa66230
+GitHub: https://github.com/harshtyagi0801
