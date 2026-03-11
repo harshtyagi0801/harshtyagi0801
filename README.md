@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Tyagi
 
-<!--
-**harshtyagi0801/harshtyagi0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Project Engineer at DRDO (Ministry of Defence, Government of India)  
+💻 Computer Vision Engineer | AI & OpenCV Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Work
+
+- Computer Vision Systems
+- Thermal Imaging & Detection
+- AI-based Image Processing
+- Real-time Object Detection
+- Video Analytics
+
+---
+
+## 🧠 Areas of Expertise
+
+- Computer Vision
+- Artificial Intelligence
+- Image Processing
+- Thermal Detection Systems
+- Machine Learning
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+
+**Libraries & Tools**
+- OpenCV
+- NumPy
+- TensorFlow / PyTorch
+- Scikit-learn
+
+**Other Tools**
+- Git & GitHub
+- Linux
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+## 🚀 Previous Projects
+
+- Pocket Notes – Notes management web app using ReactJS
+- Credit Card Generator – ReactJS based project
+- Sudoku Solver – Python-based logic solver
+- Stone Paper Scissors – Interactive web game using JavaScript
+
+---
+
+## 🎯 Interests
+
+- AI Vision Systems
+- Thermal Detection
+- Surveillance AI
+- Intelligent Monitoring Systems
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/YOURPROFILE
+GitHub: https://github.com/YOURUSERNAME
