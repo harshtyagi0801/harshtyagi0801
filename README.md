@@ -1,74 +1,86 @@
 # Hi 👋, I'm Harsh Tyagi
-
-🚀 Project Engineer at DRDO (Ministry of Defence, Government of India)  
-💻 Computer Vision | AI & OpenCV Developer  
-
+ 
+🚀 Senior Project Engineer at DRDO (Ministry of Defence, Government of India)
+💻 Computer Vision & Embedded Systems Engineer | AI, Thermal Imaging & Electro-Optics
+ 
 ---
-
+ 
 ## 🔬 Current Work
-
-- Computer Vision Systems
-- Thermal Imaging & Detection
-- AI-based Image Processing
-- Real-time Object Detection
-- Video Analytics
-
+ 
+- Real-time thermal (MWIR) imaging & electro-optical systems
+- AI-based object detection for defense & surveillance
+- Embedded systems integration (UART, I2C, GPIO) on Jetson platforms
+- Sensor calibration, field trials & system integration testing
+- DNN-based image stabilization & sensor fusion
 ---
-
+ 
 ## 🧠 Areas of Expertise
-
-- Computer Vision
-- Artificial Intelligence
-- Image Processing
-- Thermal Detection Systems
-- Machine Learning
-
+ 
+- Computer Vision & AI (YOLO, SSD, DNN-based Image Stabilization)
+- Embedded Systems (C++, UART, I2C, GPIO, Serial Communication)
+- Thermal Imaging & Electro-Optics
+- Edge AI Deployment (Jetson AGX Orin, Orin NX, Orin Nano)
+- System Integration & Testing
 ---
-
+ 
 ## 🛠 Tech Stack
-
+ 
 **Languages**
 - Python
-- JavaScript
-
-**Libraries & Tools**
+- C
+- C++
+**AI / Computer Vision**
 - OpenCV
+- YOLO (v11 / v26)
+- SSD
+- PyTorch
 - NumPy
-- TensorFlow / PyTorch
-- Scikit-learn
-
-**Other Tools**
+**Embedded & Hardware**
+- UART, I2C, GPIO
+- Jetson AGX Orin, Orin NX, Orin Nano
+- Kria KV260
+- CUDA, A100 / H100 GPUs
+**Tools & OS**
 - Git & GitHub
-- Linux
-- REST APIs
-
+- VS Code
+- Docker
+- SSH
+- Qt
+- Linux, Windows, macOS
 ---
-
+ 
 ## 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
+ 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshtyagi0801&show_icons=true)
+ 
 ---
-
+ 
 ## 🚀 Previous Projects
-
-- Pocket Notes – Notes management web app using ReactJS
-- Credit Card Generator – ReactJS based project
-- Sudoku Solver – Python-based logic solver
-- Stone Paper Scissors – Interactive web game using JavaScript
-
+ 
+- **Thermal Object Detection System** – Thermal image-based object detection using SSD, YOLOv11 & YOLOv26 for defense surveillance
+- **DNN-Based Image Stabilization** – Real-time image stabilization pipeline for thermal imagery
+- **Thermal Panorama Generation** – Wide-area thermal panorama generation using Python & OpenCV
+- **Pocket Notes** – Notes management web app using ReactJS
+- **Credit Card Generator** – ReactJS based project
+- **Sudoku Solver** – Python-based logic solver
+- **Stone Paper Scissors** – Interactive web game using JavaScript
 ---
-
+ 
+## 📄 Publication
+ 
+"Real Time DNN Based Digital Image Stabilization for Thermal Imager" — Presented at the International Conference on Electro Optics and Photonics; published by Springer Nature, 2025.
+ 
+---
+ 
 ## 🎯 Interests
-
+ 
 - AI Vision Systems
-- Thermal Detection
+- Thermal Detection & Electro-Optics
 - Surveillance AI
-- Intelligent Monitoring Systems
-
+- Embedded Systems for Sensor Integration
 ---
-
+ 
 ## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/harsh-tyagi-4baa66230
-GitHub: https://github.com/harshtyagi0801
+ 
+LinkedIn: [www.linkedin.com/in/harsh-tyagi-4baa66230](https://www.linkedin.com/in/harsh-tyagi-4baa66230)
+GitHub: [github.com/harshtyagi0801](https://github.com/harshtyagi0801
