@@ -47,11 +47,6 @@
 - SSH
 - Qt
 - Linux, Windows, macOS
----
- 
-## 📊 GitHub Stats
- 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshtyagi0801&show_icons=true)
  
 ---
  
